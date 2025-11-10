@@ -1,0 +1,28 @@
+
+準備（Prepare）
+目标：拿到原始 CSV 放入仓库；建立虚拟环境与数据库（本地 Postgres 或 SQLite）。
+产出：data/raw/global_jobs.csv、requirements.txt、.env.example
+
+	初步探索（EDA）
+	目标：理解字段、缺失率、脏点、样本文本、日期格式。
+	产出：notebooks/01_EDA.ipynb（包含缺失表、字段分布、示例问题）
+
+清洗与摄取（Ingest → Staging）
+目标：写 ingest.py，把原始 csv 导入数据库 staging 表（或生成 staging csv）。做基础清洗（日期、空白、basic parsing）。
+产出：scripts/ingest.py、data/staging/stg_jobs.csv 或 stg_jobs 数据表
+
+DWH 设计（建模）
+目标：设计星型 schema（Fact_JobPosting + Dim_Company / Dim_Location / Dim_Category / Dim_JobType / Dim_Time）。写模型草图。
+产出：ER 图、表字段清单（docs/data_dictionary.md）
+
+dbt 实现（ELT 层）
+目标：建立 dbt 项目，写 staging -> dim -> fact 的 SQL 模型，写 schema.yml 做 tests。
+产出：dbt_project/（models/staging/.sql, models/marts/.sql, schema.yml）、dbt run 的结果
+
+	数据质量 & 自动化
+	目标：添加 dbt tests、简单的 CI（GitHub Actions：dbt run），或用 Makefile。
+	产出：.github/workflows/dbt.yml 或 Makefile
+
+Dashboard（展示）
+目标：用 Looker Studio / Metabase / Power BI / Streamlit 展示 KPI（招聘量趋势、按国家/公司/职位类型分布、薪资分布、top公司）。导出截图和 notebook 展示页。
+产出：dashboard/healthcare_jobs_dashboard.png、notebooks/02_dashboard_demo.ipynb
