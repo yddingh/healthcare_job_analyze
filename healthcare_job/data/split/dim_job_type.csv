@@ -1,0 +1,6 @@
+job_type_id,job_type_std
+1,Permanent
+2,Temporary
+3,Contract
+4,Other
+5,Unknown

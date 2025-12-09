@@ -1,0 +1,751 @@
+company_id,company_name,city,country
+1,PPD GLOBAL LTD,Cambridge,UK
+2,AL Solutions,,Europe
+3,Seltek Consultants Ltd,,UK
+4,Docs International UK Limited,M4 Corridor,UK
+5,Hyper Recruitment Solutions Ltd,Cambridge,UK
+6,BCF Recruitment Ltd,South East,UK
+7,Austin Fraser,,Europe
+8,Hyper Recruitment Solutions Ltd,South East,UK
+9,Iqvia Ltd.,Manchester,UK
+10,Barrington James Ltd,,UK
+11,Barrington James Ltd,Cambridge,UK
+12,Skills Alliance (Pharma) Limited,Birmingham,UK
+13,Novella Clinical Resourcing,North West,UK
+14,NonStop Recruitment,Switzerland,Switzerland
+15,CW Recruitment Specialists Ltd,,UK
+16,EF Medical,,UK
+17,Kirkham Young Ltd,,UK
+18,CK Clinical,Manchester,UK
+19,Hays Life Sciences,,Europe
+20,0203 8757550,,Europe
+21,Barrington James Ltd,North West,UK
+22,Evolve Selection Limited,,UK
+23,CK Clinical,,Europe
+24,Skills Alliance (Pharma) Limited,,Europe
+25,Optimus Life Sciences,London,UK
+26,Barrington James Ltd,,Germany
+27,Barrington James Ltd,Manchester,UK
+28,CK Clinical,London,UK
+29,Axess Ltd,,Europe
+30,Evolve Selection Limited,South East,UK
+31,IQVIA-Talent Management Centre,Birmingham,UK
+32,i-Pharm Consulting Ltd,,France
+33,Kirkham Young Ltd,London,UK
+34,NonStop Recruitment,,Germany
+35,RBW Consulting Solutions Ltd,,Europe
+36,Barrington James Ltd,Switzerland,Switzerland
+37,RBW Consulting Solutions Ltd,London,UK
+38,CROS NT Limited,Birmingham,UK
+39,i-Pharm Consulting Ltd,M4 Corridor,UK
+40,NonStop Recruitment,,Europe
+41,Kleboe Jardine Ltd,Scotland,UK
+42,BMS Performance,,Europe
+43,Ashfield,,UK
+44,Austin Fraser,,UK
+45,Barrington James Ltd,South East,UK
+46,S E C Recruitment Limited,London,UK
+47,Key People Limited,M4 Corridor,UK
+48,PPD GLOBAL LTD,North West,UK
+49,RBW Consulting Solutions Ltd,Oxford,UK
+50,PPD GLOBAL LTD,Birmingham,UK
+51,MSI Group Limited,,Europe
+52,Silchester Associates Ltd,Birmingham,UK
+53,S E C Recruitment Limited,,Europe
+54,RBW Consulting Solutions Ltd,Spain,Spain
+55,Clinical Professionals,South East,UK
+56,Axess Ltd,,Germany
+57,ID Search and Selection Ltd,South East,UK
+58,MSI Group Limited,,UK
+59,ProClinical Ltd,,France
+60,Optimus Life Sciences,,Germany
+61,Axess Ltd,South East,UK
+62,NonStop Recruitment,London,UK
+63,Ortho Executive Limited,North West,UK
+64,Monster,South East,UK
+65,Ashfield,M4 Corridor,UK
+66,Blackfield Associates,London,UK
+67,i-Pharm Consulting Ltd,North West,UK
+68,i-Pharm Consulting Ltd,Oxford,UK
+69,Chemistree Solutions Ltd,Scotland,UK
+70,Evolve Selection Limited,Scotland,UK
+71,Kinetica (UK) Ltd,Switzerland,Switzerland
+72,CHASE Search & Selection Limited,,UK
+73,Hyper Recruitment Solutions Ltd,,UK
+74,G2 Clinical & Professional Resourcing,M4 Corridor,UK
+75,Docs International UK Limited,,Europe
+76,Bard Limited,Cambridge,UK
+77,S E C Recruitment Limited,Switzerland,Switzerland
+78,Iqvia Ltd.,M4 Corridor,UK
+79,Umbilical Life,,Germany
+80,Ashfield,London,UK
+81,Clinical Professionals,,UK
+82,Skills Alliance (Pharma) Limited,,Germany
+83,Zest Business Group Limited,Cambridge,UK
+84,Chemistree Solutions Ltd,Birmingham,UK
+85,Synexus Limited,Birmingham,UK
+86,CHASE Search & Selection Limited,North West,UK
+87,i-Pharm Consulting Ltd,,UK
+88,RBW Consulting Solutions Ltd,Manchester,UK
+89,Pentland House,North West,UK
+90,ID Search and Selection Ltd,London,UK
+91,CK Clinical,,UK
+92,Kelly Services,,Europe
+93,NonStop Recruitment,Basel,Switzerland
+94,CHASE Search & Selection Limited,South East,UK
+95,Barrington James Ltd,London,UK
+96,Skills Alliance (Pharma) Limited,,UK
+97,ProClinical Ltd,,Europe
+98,RBW Consulting Solutions Ltd,,UK
+99,Blackfield Associates,South East,UK
+100,Evolve Selection Limited,M4 Corridor,UK
+101,ProClinical Ltd,Paris,France
+102,X4 Group Ltd,,UK
+103,Novella Clinical Resourcing,Manchester,UK
+104,Barrington James Ltd,Spain,Spain
+105,Syneos Health,Cambridge,UK
+106,Key People Limited,,Europe
+107,Zenopa Ltd,Scotland,UK
+108,Key People Limited,,UK
+109,CROS NT Limited,Italy,Italy
+110,Chemistree Solutions Ltd,M4 Corridor,UK
+111,Novella Clinical Resourcing,M4 Corridor,UK
+112,NonStop Recruitment,,UK
+113,NonStop Recruitment,Scotland,UK
+114,Blue Pelican Limited,London,UK
+115,Advanced Clinical Recruitment Limited,Switzerland,Switzerland
+116,Evolve Selection Limited,,Europe
+117,Ascott Blake Ltd,,UK
+118,Umbilical Life,,Europe
+119,Austin Fraser,London,UK
+120,TRS Consulting,Birmingham,UK
+121,Talentmark Resourcing Solutions,Cambridge,UK
+122,CHASE Search & Selection Limited,Scotland,UK
+123,Chemistree Solutions Ltd,South East,UK
+124,S E C Recruitment Limited,Oxford,UK
+125,Axess Ltd,,UK
+126,S E C Recruitment Limited,Cambridge,UK
+127,CHASE Search & Selection Limited,Cambridge,UK
+128,Only Clinical Ltd,London,UK
+129,Expion,,Europe
+130,RBW Consulting Solutions Ltd,Birmingham,UK
+131,ProClinical Ltd,Switzerland,Switzerland
+132,Projectus Ltd,South East,UK
+133,Synexus Limited,,Europe
+134,Optimus Life Sciences,Italy,Italy
+135,Synexus Limited,,UK
+136,X4 Group Ltd,South East,UK
+137,CW Recruitment Specialists Ltd,South East,UK
+138,Kelly Services,M4 Corridor,UK
+139,i-Pharm Consulting Ltd,,Europe
+140,Optimus Life Sciences,,Europe
+141,RBW Consulting Solutions Ltd,,Germany
+142,PPD GLOBAL LTD,Manchester,UK
+143,Covance,Switzerland,Switzerland
+144,CW Recruitment Specialists Ltd,London,UK
+145,Silchester Associates Ltd,North West,UK
+146,Silchester Associates Ltd,,UK
+147,Seven Life Sciences,,Europe
+148,Barrington James Ltd,Scotland,UK
+149,ProClinical Ltd,Cambridge,UK
+150,Silchester Associates Ltd,Cambridge,UK
+151,Syneos Health,London,UK
+152,Silchester Associates Ltd,,Germany
+153,ProClinical Ltd,,Germany
+154,NonStop Recruitment,Spain,Spain
+155,Popscience Limited,South East,UK
+156,Fisher Clinical Services Uk Limited,M4 Corridor,UK
+157,Pentland House,M4 Corridor,UK
+158,Barrington James Ltd,M4 Corridor,UK
+159,RBW Consulting Solutions Ltd,South East,UK
+160,Umbilical Life,,UK
+161,Umbilical Life,Cambridge,UK
+162,Hays Life Sciences,South East,UK
+163,Barrington James Ltd,Oxford,UK
+164,Iqvia Ltd.,,Europe
+165,Hays Life Sciences,,UK
+166,Syneos Health,Spain,Spain
+167,RBW Consulting Solutions Ltd,M4 Corridor,UK
+168,CK Clinical,Cambridge,UK
+169,ProClinical Ltd,Basel,Switzerland
+170,NonStop Recruitment,North West,UK
+171,NonStop Recruitment,South East,UK
+172,Popscience Limited,,France
+173,Axess Ltd,London,UK
+174,Allegis Group Limited,,UK
+175,Becton Dickinson,M4 Corridor,UK
+176,Novella Clinical Resourcing,Birmingham,UK
+177,Zenopa Ltd,M4 Corridor,UK
+178,Hyper Recruitment Solutions Ltd,Oxford,UK
+179,RBW Consulting Solutions Ltd,Switzerland,Switzerland
+180,TRS Consulting,North West,UK
+181,ProClinical Ltd,Italy,Italy
+182,40 Recruitment Limited,Scotland,UK
+183,Barrington James Ltd,,Europe
+184,PPD GLOBAL LTD,Oxford,UK
+185,EF Medical,North West,UK
+186,Xcellin Ltd,South East,UK
+187,U.K.,Oxford,UK
+188,RBW Consulting Solutions Ltd,North West,UK
+189,Advance Recruitment,,UK
+190,Elevate Platform Limited,South East,UK
+191,NonStop Recruitment,,France
+192,Planet Pharma Staffing Limited,South East,UK
+193,MSI Group Limited,London,UK
+194,Key People Limited,Switzerland,Switzerland
+195,TRS Consulting,Oxford,UK
+196,CK Clinical,Switzerland,Switzerland
+197,Covance,,France
+198,Andy Fish,M4 Corridor,UK
+199,Ashfield,North West,UK
+200,Advanced Clinical Recruitment Limited,,UK
+201,ID Search and Selection Ltd,,Europe
+202,Seven Life Sciences,South East,UK
+203,Vifor (International) AG,M4 Corridor,UK
+204,Covance,,UK
+205,Hyper Recruitment Solutions Ltd,North West,UK
+206,Andy Fish,Scotland,UK
+207,S E C Recruitment Limited,Italy,Italy
+208,sugarman Health & Wellbeing,,Europe
+209,Consult Search & Selection Ltd,Oxford,UK
+210,CHASE Search & Selection Limited,M4 Corridor,UK
+211,CK Clinical,M4 Corridor,UK
+212,Bausch & Lomb U.K. Limited,South East,UK
+213,Gold Group Limited,,UK
+214,Harris Lord Recruitment Limited,,UK
+215,Covance,,Europe
+216,Syneos Health,Oxford,UK
+217,Remtec Search and Selection,London,UK
+218,BMS Performance,Oxford,UK
+219,Star,,UK
+220,Clinical Professionals,London,UK
+221,S E C Recruitment Limited,South East,UK
+222,Sapling Recruitment Ltd,,Europe
+223,IQVIA-Talent Management Centre,Scotland,UK
+224,Hyper Recruitment Solutions Ltd,Manchester,UK
+225,G2 Clinical & Professional Resourcing,South East,UK
+226,Harris Lord Recruitment Limited,London,UK
+227,Barrington James Ltd,Birmingham,UK
+228,S E C Recruitment Limited,,UK
+229,Planet Pharma Staffing Limited,,Europe
+230,North-51 Ltd,London,UK
+231,Covance,,Germany
+232,Apodi,North West,UK
+233,Ashfield,Birmingham,UK
+234,Cardinal Health U.K. 432 Limited,M4 Corridor,UK
+235,BMS Performance,M4 Corridor,UK
+236,Discover People International Limited,Switzerland,Switzerland
+237,Iqvia Ltd.,Birmingham,UK
+238,Docs International UK Limited,Scotland,UK
+239,Workvine Limited,South East,UK
+240,Hyper Recruitment Solutions Ltd,Scotland,UK
+241,Xplore Pharma Ltd,Switzerland,Switzerland
+242,AL Solutions,Scotland,UK
+243,NonStop Recruitment,M4 Corridor,UK
+244,North-51 Ltd,,UK
+245,CROS NT Limited,South East,UK
+246,Bard Limited,Birmingham,UK
+247,Skills Alliance (Pharma) Limited,Basel,Switzerland
+248,RBW Consulting Solutions Ltd,Cambridge,UK
+249,Hays Life Sciences,M4 Corridor,UK
+250,The Vacancy Management Company,Oxford,UK
+251,Evolve Selection Limited,London,UK
+252,Synexus Limited,North West,UK
+253,Employment Solutions Limited,,Europe
+254,Silchester Associates Ltd,Manchester,UK
+255,Star,M4 Corridor,UK
+256,IQVIA-Talent Management Centre,,Europe
+257,Michael Bailey Associates Limited,Switzerland,Switzerland
+258,Sci Pro,Switzerland,Switzerland
+259,ID Search and Selection Ltd,North West,UK
+260,CHASE Search & Selection Limited,London,UK
+261,Fairfax Management Consultants Limited,London,UK
+262,Syneos Health,,Europe
+263,i-Pharm Consulting Ltd,Cambridge,UK
+264,C.K. Associates Limited (Branded),,UK
+265,Seven Life Sciences,Cambridge,UK
+266,Clinical Professionals,M4 Corridor,UK
+267,Publicis Health,London,UK
+268,Umbilical Life,South East,UK
+269,CHASE Search & Selection Limited,,Europe
+270,G2 Clinical & Professional Resourcing,,UK
+271,Kleboe Jardine Ltd,,Europe
+272,S E C Recruitment Limited,Paris,France
+273,sugarman Health & Wellbeing,,UK
+274,Clinical Professionals,,Europe
+275,Fairfax Management Consultants Limited,Birmingham,UK
+276,Novella Clinical Resourcing,South East,UK
+277,Umbilical Life,North West,UK
+278,Apodi,M4 Corridor,UK
+279,CSG.,,Europe
+280,Syneos Health,North West,UK
+281,Xcellin Ltd,M4 Corridor,UK
+282,IQVIA-Talent Management Centre,M4 Corridor,UK
+283,i-Pharm Consulting Ltd,South East,UK
+284,ProClinical Ltd,London,UK
+285,Alliance Healthcare,Manchester,UK
+286,Popscience Limited,,UK
+287,Delta Consultants,Oxford,UK
+288,Ark Talent Group Limited,,Europe
+289,Silchester Associates Ltd,Scotland,UK
+290,Chemistree Solutions Ltd,North West,UK
+291,Umbilical Life,London,UK
+292,NonStop Recruitment,Italy,Italy
+293,Syneos Health,South East,UK
+294,PPD GLOBAL LTD,,Europe
+295,S E C Recruitment Limited,Spain,Spain
+296,Barrington James Ltd,,France
+297,CK Clinical,South East,UK
+298,Umbilical Life,Manchester,UK
+299,Star,London,UK
+300,Delta Consultants,M4 Corridor,UK
+301,Barrington James Ltd,Italy,Italy
+302,Alcon,,Europe
+303,Popscience Limited,,Europe
+304,Zenopa Ltd,Manchester,UK
+305,Key People Limited,,Germany
+306,The Vacancy Management Company,Cambridge,UK
+307,The Vacancy Management Company,North West,UK
+308,CROS NT Limited,North West,UK
+309,BMS Performance,,UK
+310,Allegis Group Limited,,Europe
+311,CSG.,,Germany
+312,Kirkham Young Ltd,South East,UK
+313,Hyper Recruitment Solutions Ltd,,Europe
+314,Covance,London,UK
+315,Vedra Med Tech,,UK
+316,Ashfield,South East,UK
+317,U.K.,M4 Corridor,UK
+318,Syneos Health,M4 Corridor,UK
+319,Projectus Ltd,,UK
+320,Syneos Health,,Germany
+321,Real Resourcing,,UK
+322,Fresh Connect (Recruitment Consultants) Limited,London,UK
+323,Xcellin Ltd,Scotland,UK
+324,Key People Limited,Cambridge,UK
+325,ID Search and Selection Ltd,,UK
+326,S E C Recruitment Limited,,Germany
+327,ProClinical Ltd,South East,UK
+328,Hyper Recruitment Solutions Ltd,M4 Corridor,UK
+329,UK,Scotland,UK
+330,Skills Alliance (Pharma) Limited,South East,UK
+331,Umbilical Life,Switzerland,Switzerland
+332,Xcellin Ltd,North West,UK
+333,Skills Alliance (Pharma) Limited,Cambridge,UK
+334,Umbilical Life,Oxford,UK
+335,Syneos Health,Italy,Italy
+336,Key People Limited,Paris,France
+337,CK Clinical,Oxford,UK
+338,Advance Recruitment,,Europe
+339,Michael Bailey Associates Limited,,Europe
+340,Gold Group Limited,London,UK
+341,Discover People International Limited,,Europe
+342,S E C Recruitment Limited,,France
+343,Premier Research Group Limited,,Europe
+344,Seven Life Sciences,Manchester,UK
+345,Zest Business Group Limited,M4 Corridor,UK
+346,The Vacancy Management Company,Scotland,UK
+347,Blackfield Associates,,Europe
+348,OPEN Health,M4 Corridor,UK
+349,PPD GLOBAL LTD,,UK
+350,Optimus Life Sciences,North West,UK
+351,Key People Limited,London,UK
+352,Xcellin Ltd,Birmingham,UK
+353,Premier Research Group Limited,M4 Corridor,UK
+354,Austin Fraser,South East,UK
+355,Only Clinical Ltd,,UK
+356,Synexus Limited,Manchester,UK
+357,UK,London,UK
+358,Volt Europe Limited,Paris,France
+359,Sapling Recruitment Ltd,M4 Corridor,UK
+360,Key People Limited,South East,UK
+361,Star,South East,UK
+362,Blue Pelican Limited,,UK
+363,Silchester Associates Ltd,London,UK
+364,EF Medical,London,UK
+365,Seltek Consultants Ltd,,Germany
+366,40 Recruitment Limited,South East,UK
+367,Stroud Resourcing,,UK
+368,Michael Bailey Associates Limited,Basel,Switzerland
+369,Havas Life Medicom,South East,UK
+370,Advance Recruitment,Scotland,UK
+371,Iqvia Ltd.,,UK
+372,BBI Group,M4 Corridor,UK
+373,Hays Life Sciences,London,UK
+374,Premier Research Group Limited,,France
+375,Chemistree Solutions Ltd,London,UK
+376,Planet Pharma Staffing Limited,,Germany
+377,The Vacancy Management Company,,UK
+378,Kirkham Young Ltd,M4 Corridor,UK
+379,Pentland House,,UK
+380,Volt Europe Limited,,Germany
+381,Vantage Recruitment Solutions Limited,Spain,Spain
+382,JCW Search Ltd,,UK
+383,TRS Consulting,,Europe
+384,G2 Clinical & Professional Resourcing,London,UK
+385,Allegis Group Limited,South East,UK
+386,Ortho Executive Limited,M4 Corridor,UK
+387,Chemistree Solutions Ltd,Manchester,UK
+388,S E C Recruitment Limited,Manchester,UK
+389,Novo Nordisk Ltd,,UK
+390,Helix Recruitment Ltd,Cambridge,UK
+391,U.K.,,Europe
+392,40 Recruitment Limited,,Europe
+393,sugarman Health & Wellbeing,Birmingham,UK
+394,Zest Business Group Limited,,Europe
+395,Remtec Search and Selection,,France
+396,Skills Alliance (Pharma) Limited,Italy,Italy
+397,X4 Group Ltd,London,UK
+398,Harris Lord Recruitment Limited,,Europe
+399,Warman O'Brien Ltd,,UK
+400,Sapling Recruitment Ltd,,UK
+401,Evidencia Scientific Search & Selec. Ltd,South East,UK
+402,MSI Group Limited,Switzerland,Switzerland
+403,Prentice associates,London,UK
+404,Square One Resources Limited,,Germany
+405,Square One Resources Limited,,UK
+406,Seven Life Sciences,,UK
+407,Fresh Connect (Recruitment Consultants) Limited,North West,UK
+408,Silchester Associates Ltd,M4 Corridor,UK
+409,Michael Bailey Associates Limited,South East,UK
+410,Docs International UK Limited,Cambridge,UK
+411,Hyper Recruitment Solutions Ltd,London,UK
+412,TRS Consulting,South East,UK
+413,Clinical Professionals,Birmingham,UK
+414,Ascott Blake Ltd,South East,UK
+415,Creo Medical Limited,M4 Corridor,UK
+416,Fresh Connect (Recruitment Consultants) Limited,,UK
+417,Zest Business Group Limited,,UK
+418,Kirkham Young Ltd,,France
+419,NonStop Recruitment,Paris,France
+420,Vantage Recruitment Solutions Limited,South East,UK
+421,Havas Life Medicom,M4 Corridor,UK
+422,Novella Clinical Resourcing,,UK
+423,Sanofi,North West,UK
+424,Pharmerit Limited,,UK
+425,Projectus Ltd,,Europe
+426,Remtec Search and Selection,Italy,Italy
+427,Covance,Italy,Italy
+428,Apodi,South East,UK
+429,Reckitt Benckiser Plc,,Europe
+430,Ascott Blake Ltd,London,UK
+431,G2 Clinical & Professional Resourcing,,Europe
+432,i-Pharm Consulting Ltd,Paris,France
+433,i-Pharm Consulting Ltd,Spain,Spain
+434,Alcon,M4 Corridor,UK
+435,Austin Fraser,Manchester,UK
+436,Fresh Connect (Recruitment Consultants) Limited,Oxford,UK
+437,Ashfield,Manchester,UK
+438,Consult Search & Selection Ltd,,Europe
+439,Morgan Prestwich Recruitment Limited,London,UK
+440,BMS Performance,Birmingham,UK
+441,Employment Solutions Limited,,UK
+442,Health Care People Ltd,South East,UK
+443,Kleboe Jardine Ltd,,UK
+444,Iqvia Ltd.,,Germany
+445,Silchester Associates Ltd,Oxford,UK
+446,Clinical Professionals,North West,UK
+447,CSG.,London,UK
+448,Seven Life Sciences,North West,UK
+449,40 Recruitment Limited,Birmingham,UK
+450,Skills Alliance (Pharma) Limited,,France
+451,Skills Alliance (Pharma) Limited,North West,UK
+452,Pentland House,South East,UK
+453,Consult Search & Selection Ltd,Cambridge,UK
+454,Sciterion,M4 Corridor,UK
+455,Key People Limited,,France
+456,PPD GLOBAL LTD,Spain,Spain
+457,sugarman Health & Wellbeing,London,UK
+458,BMS Performance,North West,UK
+459,Clinical Professionals,Scotland,UK
+460,ProClinical Ltd,,UK
+461,Alliance Healthcare,North West,UK
+462,Hydrogen International Ltd,,UK
+463,.,Scotland,UK
+464,Wentworth Pharmaceutical,South East,UK
+465,Prentice associates,,Europe
+466,Syneos Health,,France
+467,CROS NT Limited,M4 Corridor,UK
+468,Optimus Life Sciences,Switzerland,Switzerland
+469,Novartis Ireland Ltd,M4 Corridor,UK
+470,Silchester Associates Ltd,,Europe
+471,Execupharm Uk Limited,,Germany
+472,Execupharm Uk Limited,,Europe
+473,CSG.,Birmingham,UK
+474,Zest Business Group Limited,,Germany
+475,Projectus Ltd,London,UK
+476,EF Medical,South East,UK
+477,Ark Talent Group Limited,M4 Corridor,UK
+478,Zest Business Group Limited,Spain,Spain
+479,Ashfield,,Europe
+480,Novella Clinical Resourcing,,Europe
+481,Evolve Selection Limited,Oxford,UK
+482,CK Clinical,Paris,France
+483,Skills Alliance (Pharma) Limited,Scotland,UK
+484,Ark Talent Group Limited,London,UK
+485,Intercept Pharma Europe Ltd,London,UK
+486,Chemistree Solutions Ltd,Cambridge,UK
+487,CHASE Search & Selection Limited,Manchester,UK
+488,NonStop Recruitment,Cambridge,UK
+489,TRS Consulting,Scotland,UK
+490,Zest Business Group Limited,South East,UK
+491,Elevate Platform Limited,,Europe
+492,Synexus Limited,Scotland,UK
+493,Personalwerk Media GmbH & Co. KG,Birmingham,UK
+494,Planet Pharma Staffing Limited,Switzerland,Switzerland
+495,Star,,Europe
+496,Prentice associates,Cambridge,UK
+497,Covance,M4 Corridor,UK
+498,Syneos Health,,UK
+499,Skills Alliance (Pharma) Limited,London,UK
+500,Elevate Platform Limited,,UK
+501,Ashfield,Scotland,UK
+502,Iqvia Ltd.,London,UK
+503,Star,North West,UK
+504,Volt Europe Limited,,Europe
+505,Iqvia Ltd.,Switzerland,Switzerland
+506,Advanced Clinical Recruitment Limited,switzerland,Switzerland
+507,Planet Pharma Staffing Limited,switzerland,Switzerland
+508,CSG.,spain,Spain
+509,NonStop Recruitment,italy,Italy
+510,Hyper Recruitment Solutions Ltd,,France
+511,Remtec Search and Selection,spain,Spain
+512,Covance,switzerland,Switzerland
+513,Barrington James Ltd,switzerland,Switzerland
+514,i-Pharm Consulting Ltd,spain,Spain
+515,40 Recruitment Limited,,UK
+516,CK Clinical,switzerland,Switzerland
+517,NonStop Recruitment,switzerland,Switzerland
+518,RBW Consulting Solutions Ltd,switzerland,Switzerland
+519,Remtec Search and Selection,,Germany
+520,PPD GLOBAL LTD,spain,Spain
+521,Ark Talent Group Limited,,France
+522,S E C Recruitment Limited,spain,Spain
+523,Advanced Clinical Recruitment Limited,Oxford,UK
+524,Warman O'Brien Ltd,Oxford,UK
+525,Adaptimmune Limited,M4 Corridor,UK
+526,Pentland House,,Europe
+527,i-Pharm Consulting Ltd,London,UK
+528,U.K.,Manchester,UK
+529,Austin Fraser,Cambridge,UK
+530,PPD GLOBAL LTD,M4 Corridor,UK
+531,Real Resourcing,North West,UK
+532,ProClinical Ltd,Scotland,UK
+533,BMS Performance,London,UK
+534,TRS Consulting,London,UK
+535,Warman O'Brien Ltd,Birmingham,UK
+536,Alexander Mann Solutions,North West,UK
+537,RBW Consulting Solutions Ltd,,France
+538,Star,Scotland,UK
+539,Zest Business Group Limited,North West,UK
+540,Elevate Platform Limited,London,UK
+541,CSG.,Cambridge,UK
+542,IQVIA,London,UK
+543,Premier Research Group Limited,,Germany
+544,EF Medical,,Europe
+545,Pentland House,London,UK
+546,Chemistree Solutions Ltd,,UK
+547,0203 8757550,M4 Corridor,UK
+548,Key People Limited,Basel,Switzerland
+549,Blackfield Associates,,UK
+550,UK,,UK
+551,Health Care People Ltd,Scotland,UK
+552,40 Recruitment Ltd -Branded,,UK
+553,Helix Recruitment Ltd,M4 Corridor,UK
+554,Guided Solutions Ltd,London,UK
+555,Kirkham Young Ltd,,Europe
+556,Sapling Recruitment Ltd,South East,UK
+557,Novartis Ireland Ltd,,UK
+558,Square One Resources Limited,,Europe
+559,Zenopa Ltd,London,UK
+560,Bausch & Lomb U.K. Limited,London,UK
+561,Wentworth Pharmaceutical,,UK
+562,G2 Clinical &amp; Professional Resourcing,South East,UK
+563,CHASE Search &amp; Selection Limited,South East,UK
+564,CSG.,,France
+565,Popscience Limited,London,UK
+566,CHASE Search &amp; Selection Limited,,UK
+567,Becton Dickinson,,Europe
+568,Charterhouse Recruitment,M4 Corridor,UK
+569,Charterhouse Recruitment,North West,UK
+570,Evidencia Scientific Search &amp; Selec. Ltd,,UK
+571,CHASE Search &amp; Selection Limited,,Europe
+572,G2 Clinical &amp; Professional Resourcing,,UK
+573,Fresh Connect (Recruitment Consultants) Limited,,Europe
+574,Advance Recruitment,South East,UK
+575,CHASE Search &amp; Selection Limited,London,UK
+576,G2 Clinical &amp; Professional Resourcing,,Europe
+577,G&amp;J Lee Recruitment,South East,UK
+578,IQVIA-Talent Management Centre,London,UK
+579,Apodi,,UK
+580,Delta Consultants,,Europe
+581,Evidencia Scientific Search &amp; Selec. Ltd,South East,UK
+582,Ukpharm Limited,,UK
+583,Consult Search &amp; Selection Ltd,M4 Corridor,UK
+584,Discover People International Limited,,Germany
+585,Vifor (International) AG,South East,UK
+586,CHASE Search &amp; Selection Limited,M4 Corridor,UK
+587,Quotient Sciences,,UK
+588,Novella Clinical Resourcing,Scotland,UK
+589,Discover People International Limited,London,UK
+590,G2 Clinical &amp; Professional Resourcing,M4 Corridor,UK
+591,G2 Clinical &amp; Professional Resourcing,London,UK
+592,Chemistree Solutions Ltd,,Europe
+593,ProClinical Ltd,M4 Corridor,UK
+594,Fairfax Management Consultants Limited,,UK
+595,BCF Recruitment Ltd,,UK
+596,Apodi,Manchester,UK
+597,Projectus Ltd,Oxford,UK
+598,CK Clinical,Scotland,UK
+599,Kelly Services,South East,UK
+600,Apodi,,Europe
+601,Real Resourcing,South East,UK
+602,Remtec Search and Selection,,Europe
+603,Vifor (International) AG,Scotland,UK
+604,Sapling Recruitment Ltd,London,UK
+605,CHASE Search &amp; Selection Limited,Cambridge,UK
+606,Delta Consultants,,UK
+607,Ortho Executive Limited,South East,UK
+608,40 Recruitment Limited,M4 Corridor,UK
+609,Bausch &amp; Lomb U.K. Limited,Scotland,UK
+610,CHASE Search &amp; Selection Limited,North West,UK
+611,Sapling Recruitment Ltd,Scotland,UK
+612,sugarman Health &amp; Wellbeing,London,UK
+613,CHASE Search &amp; Selection Limited,Scotland,UK
+614,40 Recruitment Limited,North West,UK
+615,CHASE Search &amp; Selection Limited,Birmingham,UK
+616,Hydrogen International Ltd,,Europe
+617,Vedra Med Tech,,Europe
+618,Harris Lord Recruitment Limited,Scotland,UK
+619,Regeneron,M4 Corridor,UK
+620,Premier Research Group Limited,South East,UK
+621,Allegis Group Limited,London,UK
+622,Fresh Connect (Recruitment Consultants) Limited,South East,UK
+623,AL Solutions,,UK
+624,Vivid,,Europe
+625,Consult Search &amp; Selection Ltd,,Europe
+626,Optimus Life Sciences,South East,UK
+627,Pentland House,Manchester,UK
+628,Discover People International Limited,South East,UK
+629,CROS NT Limited,Manchester,UK
+630,Bausch &amp; Lomb U.K. Limited,London,UK
+631,Quotient Sciences,,Europe
+632,Just Recruit,,UK
+633,Real Resourcing,,Europe
+634,AL Solutions,Birmingham,UK
+635,The Vacancy Management Company,Manchester,UK
+636,Bard Limited,North West,UK
+637,Novella Clinical Resourcing,Oxford,UK
+638,CK Clinical,Birmingham,UK
+639,Iqvia Ltd.,Oxford,UK
+640,sugarman Health &amp; Wellbeing,Birmingham,UK
+641,CHASE Search &amp; Selection Limited,Manchester,UK
+642,Consult Search &amp; Selection Ltd,Cambridge,UK
+643,Volt Europe Limited,Spain,Spain
+644,Novella Clinical Resourcing,Cambridge,UK
+645,ProClinical Ltd,Spain,Spain
+646,RBW Consulting Solutions Ltd,Paris,France
+647,Docs International UK Limited,South East,UK
+648,X4 Group Ltd,M4 Corridor,UK
+649,Premier Research Group Limited,Spain,Spain
+650,Optimus Life Sciences,,UK
+651,S E C Recruitment Limited,Basel,Switzerland
+652,Xcellin Ltd,Manchester,UK
+653,Execupharm Uk Limited,,UK
+654,Quotient Sciences,Scotland,UK
+655,Becton Dickinson,Manchester,UK
+656,Gold Group Limited,South East,UK
+657,Umbilical Life,Italy,Italy
+658,Health Care People Ltd,London,UK
+659,Elevate Platform Limited,M4 Corridor,UK
+660,Kirkham Young Ltd,Oxford,UK
+661,Austin Fraser,North West,UK
+662,Expion,North West,UK
+663,The Vacancy Management Company,,Europe
+664,Gold Group Limited,M4 Corridor,UK
+665,Gold Group Limited,North West,UK
+666,Personalwerk Media GmbH &amp; Co. KG,Oxford,UK
+667,Intercept Pharma Europe Ltd,South East,UK
+668,Consult Search &amp; Selection Ltd,North West,UK
+669,Clinical Professionals,Cambridge,UK
+670,IQVIA-Talent Management Centre,South East,UK
+671,Zenopa Ltd,,Europe
+672,CW Recruitment Specialists Ltd,,Europe
+673,0203 8757550,,UK
+674,TFX Group,,Europe
+675,Seltek Consultants Ltd,,Europe
+676,UK,,Europe
+677,.,,UK
+678,Zenopa Ltd,,UK
+679,Andy Fish,,UK
+680,Silchester Associates Ltd,South East,UK
+681,Ark Talent Group Limited,South East,UK
+682,Publicis Health,,UK
+683,Medicareplus International Ltd,,UK
+684,Fairfax Management Consultants Limited,,Europe
+685,IQVIA-Talent Management Centre,,UK
+686,Charterhouse Recruitment,,Europe
+687,Becton Dickinson,,UK
+688,Charterhouse Recruitment,,UK
+689,BMS Performance,South East,UK
+690,Novartis Ireland Ltd,,Europe
+691,Remtec Search and Selection,,UK
+692,Helix Recruitment Ltd,,UK
+693,AllPharma Recruitment,,Europe
+694,Broadbean Technology Limited (Essity),,UK
+695,Xcellin Ltd,,Europe
+696,Ark Talent Group Limited,,UK
+697,Volt Europe Limited,,UK
+698,Mölnlycke Health Care,,UK
+699,Cardinal Health U.K. 432 Limited,,Europe
+700,Vifor (International) AG,,Europe
+701,Prentice associates,,UK
+702,Blue Pelican Limited,,Europe
+703,Xcellin Ltd,,UK
+704,Bausch & Lomb U.K. Limited,,UK
+705,Swift Selection,,Europe
+706,Chameleon Communications Ltd,,UK
+707,Advanced Clinical Recruitment Limited,South East,UK
+708,Warman O'Brien Ltd,South East,UK
+709,Alcon,,UK
+710,Alexander Mann Solutions,,Europe
+711,CSG.,,UK
+712,PPD GLOBAL LTD,Scotland,UK
+713,AllPharma Recruitment,,UK
+714,AL Solutions,South East,UK
+715,PRA Health Sciences,,UK
+716,Vifor (International) AG,,UK
+717,X4 Group Ltd,,Europe
+718,PPD GLOBAL LTD,South East,UK
+719,Ascott Blake Ltd,,Europe
+720,Just Recruit,,Europe
+721,G&J Lee Recruitment,London,UK
+722,Talentmark Resourcing Solutions,,Europe
+723,Wentworth Pharmaceutical,,Europe
+724,Iqvia Ltd.,South East,UK
+725,GSK,,Europe
+726,Vantage Recruitment Solutions Limited,,UK
+727,BCF Recruitment Ltd,,Europe
+728,Creo Medical Limited,,Europe
+729,Warman O'Brien Ltd,London,UK
+730,Warman O'Brien Ltd,,Europe
+731,Projectus Ltd,M4 Corridor,UK
+732,Volt Europe Limited,M4 Corridor,UK
+733,Remtec Search and Selection,South East,UK
+734,De Smit Medical Systems Limited,,Europe
+735,Pharmerit Limited,,Europe
+736,Sciterion,,Europe
+737,LKP Solutions Ltd,,Europe
+738,Danone,,Europe
+739,Medicareplus International Ltd,,Europe
+740,CK Clinical,cambridge,UK
+741,G&J Lee Recruitment,cambridge,UK
+742,Docs International UK Limited,cambridge,UK
+743,Hyper Recruitment Solutions Ltd,cambridge,UK
+744,C.K. Associates Limited (Branded),cambridge,UK
+745,Covance Clinical Services Ltd,,Europe
+746,AL Solutions,cambridge,UK
+747,RBW Consulting Solutions Ltd,cambridge,UK
+748,Adaptimmune Limited,South East,UK
+749,JCW Search Ltd,,Europe
+750,ProClinical Ltd,cambridge,UK

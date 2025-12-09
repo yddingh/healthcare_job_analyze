@@ -41,7 +41,7 @@ print(f"CSV 读取完成: {len(df)} 行, {len(df.columns)} 列")
 # --- Step 4: 写入 SQLite ---
 print("正在写入 SQLite 数据库...")
 conn = sqlite3.connect(DB_PATH)
-df.to_sql("raw_jobs", conn, if_exists="replace", index=False)
+df.to_sql("stg_jobs", conn, if_exists="replace", index=False)
 conn.close()
 
-print(f"数据已写入数据库: {DB_PATH}\n表名: raw_jobs")
+print(f"数据已写入数据库: {DB_PATH}\n表名: stg_jobs")

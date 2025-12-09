@@ -1,0 +1,671 @@
+salary_id,salary_offered,salary_min,salary_max,salary_currency,salary_parsed
+1,Competitive,,,,False
+2,,,,,False
+3,On Application,,,,False
+4,"Car allowance, Pension, Bonus, Healthcare etc",,,,False
+5,Competitive + package,,,,False
+6,Competitive Package,,,,False
+7,upon agreement,,,,False
+8,On application,,,,False
+9,Bonus,,,,False
+10,Exceptional package in line with experience,,,,False
+11,Neg,,,,False
+12,Competitive Salary,,,,False
+13,Flexible salary and benefits DOE,,,,False
+14,60k - 70k pa,60000.0,60000.0,,True
+15,Very Competitive,,,,False
+16,Competitive + Bonus,,,,False
+17,Competitive Hourly Rate,,,,False
+18,Negotiable,,,,False
+19,Up to 80k pa,80000.0,80000.0,,True
+20,Excellent remuneration package on offer,,,,False
+21,Competitive Negotiable,,,,False
+22,Highly Competitive + Bonus/Benefits,,,,False
+23,"CHF 95,000-110,000",95000.0,110000.0,,True
+24,Competitive Salary and Package,,,,False
+25,Competitive plus bonus and package,,,,False
+26,Competitive + Package,,,,False
+27,Competitve,,,,False
+28,75k - 85k pa + depending on expience,75000.0,75000.0,,True
+29,Competitive / On application,,,,False
+30,Competitive Salary & Bonus,,,,False
+31,Salary: On application,,,,False
+32,Negotiable dependant on level,,,,False
+33,Swiss Franc60k - Swiss Franc130k pa + Negotiable,,,,False
+34,Swiss Franc80k - Swiss Franc110k pa,110.0,110.0,,True
+35,"45,000+",45000.0,45000.0,,True
+36,Highly competitive package + bonus/bens,,,,False
+37,Up to 60k pa,60000.0,60000.0,,True
+38,US$70k - US$10k0 pa + benefits package,70000.0,70000.0,USD,True
+39,Competitive negotiable salary,,,,False
+40,Excellent hourly rate,,,,False
+41,Competitive Salary + Car,,,,False
+42,Competitive salary and package,,,,False
+43,Competitive negotiable,,,,False
+44,Swiss Franc90k - Swiss Franc10k0 pa + Competitive,,,,False
+45,Competitive Salary & bonus,,,,False
+46,ãCompetitive,,,,False
+47,Competitive + annual bonus,,,,False
+48,Up to Swiss Franc220k pa,220.0,220.0,,True
+49,Competitve Salary and Package,,,,False
+50,50 - 70 p hour,,,,False
+51,Upon Application,,,,False
+52,competitive,,,,False
+53,Market related,,,,False
+54,Above average salary + excellent bonus/benefits,,,,False
+55,Up to 10k0 pa,10000.0,10000.0,,True
+56,Swiss Franc105 - Swiss Franc110 p hour,105.0,110.0,,True
+57,60k - 120k pa,120.0,120.0,,True
+58,Excellent Base Salary DOE + Bonus + Bens,,,,False
+59,65k - 80k pa,65000.0,65000.0,,True
+60,28k - 40k,28000.0,28000.0,,True
+61,Depending on Experience.,,,,False
+62,dependant on experience,,,,False
+63,50k - 60k pa,50000.0,50000.0,,True
+64,Attractive,,,,False
+65,Package dependent on location,,,,False
+66,"Car, Bonus etc",,,,False
+67,75 - 120 CHF per hour,120.0,120.0,,True
+68,-,,,,False
+69,"Negotiable basic salary, car allowance and bonus",,,,False
+70,negotiable,,,,False
+71,Swiss Franc85k - Swiss Franc95k pa,85000.0,85000.0,,True
+72,"Excellent negotiable salary, company car and bonus",,,,False
+73,"40k - 50k pa + Car, pension, Insurance",40000.0,40000.0,,True
+74,Negotiable dependent on Experience,,,,False
+75,Excellent Base DOE + 55% Uncapped Bonus + Bens,,,,False
+76,70 to 80,,,,False
+77,32k - 42k pa,32000.0,32000.0,,True
+78,50k - 70k pa + Comprehensive Benefits Package,50000.0,50000.0,,True
+79,Rate Negotiable,,,,False
+80,Dependent on experience,,,,False
+81,highly competitive,,,,False
+82,Up to Swiss Franc120k pa,120.0,120.0,,True
+83,Negotiable Dependant on Experience,,,,False
+84,Competitive Rate,,,,False
+85,Swiss Franc70k - Swiss Franc80k pa + bonus and soc,70000.0,70000.0,,True
+86,Up to 80 p hour,,,,False
+87,25k - 33k pa + car,25000.0,25000.0,,True
+88,Competative,,,,False
+89,Competitive based on experience,,,,False
+90,Depending on experience and location,,,,False
+91,Swiss Franc140k - Swiss Franc160k pa + bonus,140.0,160.0,,True
+92,Up to 65 p hour,,,,False
+93,60k - 75k pa + depending on expience,60000.0,60000.0,,True
+94,80 - 100 pa,100.0,100.0,,True
+95,Competitive Basic Salary Plus Bonus and Benefits P,,,,False
+96,Competitive plus uncapped bonus and package,,,,False
+97,Competetive,,,,False
+98,100 to 150,100.0,150.0,,True
+99,Swiss Franc80k - Swiss Franc140k pa,140.0,140.0,,True
+100,Dependant on Experience and Location,,,,False
+101,Negotiable + Bonus Scheme + Company Benefits,,,,False
+102,45000,45000.0,45000.0,,True
+103,120k - 130k pa,120.0,130.0,,True
+104,Up to Swiss Franc110k pa,110.0,110.0,,True
+105,50k - 70k pa,50000.0,50000.0,,True
+106,Swiss Franc160k - Swiss Franc180k pa + negotiable,,,,False
+107,competetive,,,,False
+108,30-32K,32000.0,32000.0,,True
+109,50-60K,60000.0,60000.0,,True
+110,Salary Negotiable,,,,False
+111,80k - 10k0 pa,80000.0,80000.0,,True
+112,Swiss Franc90k - Swiss Franc10k0 pa + Bonus up to,90000.0,90000.0,,True
+113,CZK60k - CZK80k pm,60000.0,60000.0,,True
+114,45k - 65k pa + up to 10% Bonus & Standard Benefits,45000.0,45000.0,,True
+115,45k - 55k pa + bonuses,45000.0,45000.0,,True
+116,40-50K,50000.0,50000.0,,True
+117,Up to 60k pa + (OTE 20K plus full package),60000.0,60000.0,,True
+118,Up to 70 p hour,,,,False
+119,70k - 750k pa,750.0,750.0,,True
+120,Above industry average package + exceptional bonus,,,,False
+121,60k - 75k pa,60000.0,60000.0,,True
+122,35k - 50k pa + Bonus & Private Benefits,35000.0,35000.0,,True
+123,38k - 50k pa + benefits package,38000.0,38000.0,,True
+124,Up to Swiss Franc113 p hour,113.0,113.0,,True
+125,Swiss Franc140k - Swiss Franc160k pa + Benefits Pa,140.0,160.0,,True
+126,75 - 85 p hour,,,,False
+127,Swiss Franc130k - Swiss Franc140k pa,130.0,140.0,,True
+128,10k0 - 115k pa,115.0,115.0,,True
+129,85 - 101 p hour,101.0,101.0,,True
+130,Very competitive,,,,False
+131,40k - 60k,40000.0,40000.0,,True
+132,Excellent benefits,,,,False
+133,"London Weighting, Company Car",,,,False
+134,Extremely competitive basic salary + bonus ops,,,,False
+135,Swiss Franc105k - Swiss Franc120k pa + Competitive,,,,False
+136,Competitive.,,,,False
+137,Swiss Franc120k - Swiss Franc125k pa,120.0,125.0,,True
+138,35-45K,45000.0,45000.0,,True
+139,Swiss Franc10k0 - Swiss Franc120k pa + Negotiable,,,,False
+140,35k - 50k pa,35000.0,35000.0,,True
+141,40000-50000 Per Annum Bon,40000.0,50000.0,,True
+142,Competitive Package & Salary,,,,False
+143,Swiss Franc10k0 - Swiss Franc120k pa,120.0,120.0,,True
+144,Swiss Franc120k - Swiss Franc130k pa + bonus,120.0,130.0,,True
+145,60k - 90k pa,60000.0,60000.0,,True
+146,Competetive salary and package,,,,False
+147,Up to Swiss Franc140k pa,140.0,140.0,,True
+148,Up to 0.00 pa,,,,False
+149,80k - 120k pa + Plus Stock Options,120.0,120.0,,True
+150,Flexible with Benefits,,,,False
+151,Competitive dependent role role & expience,,,,False
+152,Swiss Franc80 - Swiss Franc150 pa,150.0,150.0,,True
+153,"Swiss Franc120k - Swiss Franc130k pa + 30% bonus,",120.0,130.0,,True
+154,Highly competitive salary,,,,False
+155,On application.,,,,False
+156,Up to Swiss Franc90k pa,90000.0,90000.0,,True
+157,Salary negotiable DOE + generous poackage,,,,False
+158,"competitive package, plus relocation",,,,False
+159,negotiable + package incl car + bonus,,,,False
+160,Swiss Franc80k - Swiss Franc85k pa,80000.0,80000.0,,True
+161,90k - 110k pa,110.0,110.0,,True
+162,Competitive hourly rate,,,,False
+163,Competitive Day Rate,,,,False
+164,to be negotiated after professional expience,,,,False
+165,"Competitive Basic, Bonus and Many Benefits",,,,False
+166,Competative Salary & Bonus,,,,False
+167,20k - 25k pa,20000.0,20000.0,,True
+168,Highly Competitive Basic + Excellent Flex Bens,,,,False
+169,"80k - 90k pa + Bonus, Car, Pension",80000.0,80000.0,,True
+170,100000,100000.0,100000.0,,True
+171,Competitive Salary + Exce,,,,False
+172,Up to 35 p hour,,,,False
+173,20000-30000,20000.0,30000.0,,True
+174,10k0 - 110k pa + 20 %,110.0,110.0,,True
+175,Competitive + Bonus & Benefits,,,,False
+176,"Competitive basic + 20% bonus, car & benefits",,,,False
+177,D.O.E.,,,,False
+178,65k - 75k pa,65000.0,65000.0,,True
+179,40000,40000.0,40000.0,,True
+180,Up to 20 p hour,,,,False
+181,35000 to 42000,35000.0,42000.0,,True
+182,Depending on experience,,,,False
+183,Competitive Salary and benefits,,,,False
+184,Attractive Salary & Bonus,,,,False
+185,60k.0k - 80k.0k pa,60000.0,60000.0,,True
+186,30k - 50k pa + Comprehensive benefits package,30000.0,30000.0,,True
+187,Swiss Franc150k - Swiss Franc175k pa + Bonus + Rel,150.0,175.0,,True
+188,Competitive hourly rates,,,,False
+189,Competitive with Excellent Benefits,,,,False
+190,Swiss Franc60k - Swiss Franc80k pa + Bonus,60000.0,60000.0,,True
+191,Salary commensurate with experience,,,,False
+192,45k - 50k pa + bonus + benefits and relocation pac,45000.0,45000.0,,True
+193,40k - 70k pa,40000.0,40000.0,,True
+194,neg,,,,False
+195,10k0 - 120k pa + depending on expience,120.0,120.0,,True
+196,80000-100000,80000.0,100000.0,,True
+197,Swiss Franc110k - Swiss Franc140k pa,110.0,140.0,,True
+198,Swiss Franc10k0 - Swiss Franc120k pa + Additional,120.0,120.0,,True
+199,To be discussed,,,,False
+200,Competitive package ..and much more!,,,,False
+201,65 - 75 p hour,,,,False
+202,45k - 60k pa,45000.0,45000.0,,True
+203,50 - 60 CHF per hour,,,,False
+204,Excellent and Competitive Salary,,,,False
+205,Up to 55 p hour,,,,False
+206,"CZK15k - CZK30k pm + vacation, relocation bonus",15000.0,15000.0,,True
+207,28-34K,34000.0,34000.0,,True
+208,Dependent on Experience,,,,False
+209,60k - 95k pa,60000.0,60000.0,,True
+210,40k - 42k pa,40000.0,40000.0,,True
+211,Swiss Franc120k - Swiss Franc122k pa,120.0,122.0,,True
+212,Swiss Franc70k - Swiss Franc80k pa + Bonus,70000.0,70000.0,,True
+213,30000 to 50000,30000.0,50000.0,,True
+214,Swiss Franc120k - Swiss Franc140k pa + bonus,120.0,140.0,,True
+215,Hourly rate,,,,False
+216,80k - 120k pa,120.0,120.0,,True
+217,30k - 60k,30000.0,30000.0,,True
+218,60k - 70k pa + full relocation package+lower tax,60000.0,60000.0,,True
+219,80k - 90k pa,80000.0,80000.0,,True
+220,US$120k - US$160k pa,120.0,160.0,USD,True
+221,Competitive Salary and Benefits Package,,,,False
+222,"125,000",125000.0,125000.0,,True
+223,Swiss Franc80k - Swiss Franc10k0 pa,80000.0,80000.0,,True
+224,38000 to 45000,38000.0,45000.0,,True
+225,Excellent Market Rates,,,,False
+226,(+55% OTE),,,,False
+227,50k - 60k pa + benefits,50000.0,50000.0,,True
+228,excellent,,,,False
+229,38000 to 48000,38000.0,48000.0,,True
+230,attractive,,,,False
+231,"70k - 75k pa + car allowance, bonuses",70000.0,70000.0,,True
+232,"Highly Competitive (+bonus, CAR, laptop, iPhone,",,,,False
+233,Swiss Franc120k - Swiss Franc150k pa,120.0,150.0,,True
+234,"60,000-80,000",60000.0,80000.0,,True
+235,*Competitive Hourly Rate*,,,,False
+236,80000 to 100000,80000.0,100000.0,,True
+237,Highly Competitive + Excellent Benefits,,,,False
+238,competitive salary,,,,False
+239,120k - 160k pa,120.0,160.0,,True
+240,Up to 60 pa,,,,False
+241,60 - 65 p hour,,,,False
+242,Up to 65k pa,65000.0,65000.0,,True
+243,Negotiable dependent on experience,,,,False
+244,2500 - 4k pa,2500.0,2500.0,,True
+245,Negotiable Depending on Experience,,,,False
+246,Highly Competitive Salary and Package,,,,False
+247,Co,,,,False
+248,Competitive package,,,,False
+249,Competitive day rate,,,,False
+250,Experience Dependent,,,,False
+251,Superb salary + package,,,,False
+252,55k - 80k pa,55000.0,55000.0,,True
+253,"55k - 70k pa + car, pension, technology and gadget",55000.0,55000.0,,True
+254,Up to 10k pm,10000.0,10000.0,,True
+255,140k - 20k0 pa + Bonus,140.0,140.0,,True
+256,car allowance benefits,,,,False
+257,85 - 105 p hour,105.0,105.0,,True
+258,50k - 70k pa + car,50000.0,50000.0,,True
+259,35k - 40k pa,35000.0,35000.0,,True
+260,Up to 1 pa + COMPETITIVE,,,,False
+261,Up to 55k pa,55000.0,55000.0,,True
+262,40 - 45 CHF per hour,,,,False
+263,Swiss Franc120k - Swiss Franc130k pa,120.0,130.0,,True
+264,Swiss Franc90k - Swiss Franc130k pa,130.0,130.0,,True
+265,10k0 - 145k pa + bonus,145.0,145.0,,True
+266,40k - 70k pa + Comprehensive benefits package,40000.0,40000.0,,True
+267,5k - 85k pa,85000.0,85000.0,,True
+268,Up to Swiss Franc115k pa,115.0,115.0,,True
+269,680 - 840 p/day,680.0,840.0,,True
+270,Swiss Franc110k - Swiss Franc150k pa + Bonus,110.0,150.0,,True
+271,Dependant on experience,,,,False
+272,55k - 70k pa,55000.0,55000.0,,True
+273,Swiss Franc110k - Swiss Franc150k pa + Negotiable,,,,False
+274,45k - 50k pa,45000.0,45000.0,,True
+275,"40,000 - 60,000",40000.0,60000.0,,True
+276,Competitive plus Benefits Package,,,,False
+277,Excellent with numerous benefits,,,,False
+278,45k.00 - 55k.00 pa + Company Package,45000.0,45000.0,,True
+279,Up to 70 pa,,,,False
+280,Dependant on experince,,,,False
+281,"Competitive Salary, great bonus and benefits.",,,,False
+282,90 - 96 p hour,,,,False
+283,45k - 80k pa,45000.0,45000.0,,True
+284,2500 - 3500 pm,2500.0,3500.0,,True
+285,"Swiss Franc140k - Swiss Franc190k pa + Package, Ne",140.0,190.0,,True
+286,80 - 120 p hour,120.0,120.0,,True
+287,"30,000-40,000+ benefits",30000.0,40000.0,,True
+288,Up to 120 pa,120.0,120.0,,True
+289,DOE/Neg + up to 30% quarterly bonus + benefits,,,,False
+290,40k - 55k pa,40000.0,40000.0,,True
+291,3900 - 6300 pm + negotiable,,,,False
+292,35k - 50k pa + bonus and benefits,35000.0,35000.0,,True
+293,Package,,,,False
+294,DOE / neg + up to 30% bonus paid quarterly + benef,,,,False
+295,Highly competitive rate,,,,False
+296,Up to 1 pa,,,,False
+297,negotiable + package incl car + benefits,,,,False
+298,Competative Salary &amp; Bonus,,,,False
+299,Competitive Salary &amp; Bonus,,,,False
+300,Competitive Salary and Package + 27.5% bonus + Car,,,,False
+301,50k+ depending on experience,50000.0,50000.0,,True
+302,28k - 32k,28000.0,28000.0,,True
+303,Attractive Salary &amp; Bonus,,,,False
+304,Competitive Package &amp; Bonus,,,,False
+305,60k - 80k plus bonus and package,60000.0,60000.0,,True
+306,Up to 60 p hour,,,,False
+307,Swiss Franc10k0 - Swiss Franc110k pa,110.0,110.0,,True
+308,Please Contact Megan,,,,False
+309,Excellent Pay &amp; very flexible benefits,,,,False
+310,Highly competitive salary and benefits DOE,,,,False
+311,Swiss Franc90k - Swiss Franc120k pa,120.0,120.0,,True
+312,TBD,,,,False
+313,Up to 30 p hour,,,,False
+314,Great Basic + 25% Bonus + Car + Package,,,,False
+315,Competitive Plus Benefits,,,,False
+316,Competitive salary,,,,False
+317,Competitive Salary &amp; bonus,,,,False
+318,45000 - 60000,45000.0,60000.0,,True
+319,Sales and Marketing,,,,False
+320,Competitive Salary &amp; Package,,,,False
+321,60k - 65k pa + Standard Benefits,60000.0,60000.0,,True
+322,30000,30000.0,30000.0,,True
+323,20k - 30k pa,20000.0,20000.0,,True
+324,depending on experience,,,,False
+325,770 - 820 p/day,770.0,820.0,,True
+326,55k - 60k pa + Bonus,55000.0,55000.0,,True
+327,28k - 35k,28000.0,28000.0,,True
+328,Attractive hourly pay,,,,False
+329,40k - 65k pa + negotiable,,,,False
+330,Negotiable (DOE),,,,False
+331,45k - 55k pa + Health Insurance,45000.0,45000.0,,True
+332,500 - 650 p/day,500.0,650.0,,True
+333,will be negotiated,,,,False
+334,"30k - 45k pa + 10% bonus, yearly increase &amp; benefi",30000.0,30000.0,,True
+335,benefits,,,,False
+336,On Application.,,,,False
+337,450 - 480 p/day +,450.0,480.0,,True
+338,Negotiable + 30% bonus,,,,False
+339,Dependent On Experience,,,,False
+340,"Approx 200,000 CHF",200000.0,200000.0,,True
+341,Swiss Franc10k0 - Swiss Franc140k pa + Bonus,140.0,140.0,,True
+342,35000-40000 Per Annum Ben,35000.0,40000.0,,True
+343,DOE,,,,False
+344,Swiss Franc90k - Swiss Franc125k pa,125.0,125.0,,True
+345,60k - 65k pa + depending on expience,60000.0,60000.0,,True
+346,Swiss Franc145k - Swiss Franc170k pa + Relocation,145.0,170.0,,True
+347,4500 - 5k pm + Car+meal vouchers+healthcare,4500.0,4500.0,,True
+348,Benefits package,,,,False
+349,Competitive Package &amp; Salary,,,,False
+350,Competitive Salary plus Benefits Package,,,,False
+351,60 - 75 pa,,,,False
+352,28-32k Euros + Benefits,32000.0,32000.0,EUR,True
+353,500 - 700 p/day,500.0,700.0,,True
+354,80000-10000,10000.0,80000.0,,True
+355,Negotiable per day,,,,False
+356,Company Car,,,,False
+357,40000 - 50000,40000.0,50000.0,,True
+358,40K Euros + Great Benefits,40000.0,40000.0,EUR,True
+359,40k - 60k pa + Benefits Package,40000.0,40000.0,,True
+360,110k - 130k pa + benefits,110.0,130.0,,True
+361,110k - 140k pa + Bonus and Extensive benefits,110.0,140.0,,True
+362,up to 100 000 CZK/month,0.0,100.0,,True
+363,45-50k Euros +Benefits,50000.0,50000.0,EUR,True
+364,£27k,27000.0,27000.0,GBP,True
+365,Up to £40k basic DOE + Bonuses + Company Benefits,40000.0,40000.0,GBP,True
+366,£100k OTE,100.0,100.0,GBP,True
+367,£30k + £12k bonus + car allowance,30000.0,30000.0,GBP,True
+368,"£23,000 + UNCAPPED BONUS",23000.0,23000.0,GBP,True
+369,Selon salaire,,,,False
+370,Car Allowance,,,,False
+371,"£50,000 + £40,000 Uncapped bonus",40000.0,50000.0,GBP,True
+372,"£25,000-£26,000, car and 12k commission",25000.0,26000.0,GBP,True
+373,£35k-£45k DOE + Bonus + Benefits,35000.0,35000.0,GBP,True
+374,"bonus, car, pension",,,,False
+375,£35-38K + Bonus +Benefits,38000.0,38000.0,GBP,True
+376,£50k - £60k pa,50000.0,50000.0,GBP,True
+377,Competitive Salary + uncapped OTE + car,,,,False
+378,Up to £60k dependent on experience,60000.0,60000.0,GBP,True
+379,£38-£43k + £18-£20k bonus + car,43000.0,43000.0,GBP,True
+380,"Competitive, plus sales bonus",,,,False
+381,Up to £90K & benefits (£125K OTE/Package),125.0,125.0,GBP,True
+382,40000-45000 Per Annum £60,40000.0,45000.0,GBP,True
+383,Up to £65K & benefits (£80K OTE/Package),65000.0,65000.0,GBP,True
+384,"60k - 70k pa + bonus, car",60000.0,60000.0,,True
+385,"£55,000 + Benefits",55000.0,55000.0,GBP,True
+386,£base salary+ Excellent Bonus + Company Benefits,,,GBP,False
+387,Up to £38K & benefits (£65K OTE/Package),38000.0,38000.0,GBP,True
+388,"£23k-£25k based on experience, 20% bonus",23000.0,23000.0,GBP,True
+389,60k - 65k pa,60000.0,60000.0,,True
+390,"£ competitive plus bonus, car, pension and bens",,,,False
+391,"Competitive Salary, Bonus + Other Benefits",,,,False
+392,"Up to £40,000",40000.0,40000.0,GBP,True
+393,"£55,000 - £65,000 + bonus + car allowance",55000.0,65000.0,GBP,True
+394,£70-80k basic + Bonus + car,80000.0,80000.0,GBP,True
+395,"Up to £22k pa + OTE £26,k, Ipad, Iphone",22000.0,22000.0,GBP,True
+396,Up to £15K (£22K OTE/Package),15000.0,15000.0,GBP,True
+397,£50k basic + £20k bonus + car,50000.0,50000.0,GBP,True
+398,£DOE,,,GBP,False
+399,very competitive package,,,,False
+400,"£45,000 - £55,000",45000.0,55000.0,GBP,True
+401,£50k - £70k pa + + Benefits (Sal dependent upon ex,50000.0,50000.0,GBP,True
+402,£25k plus bonus,25000.0,25000.0,GBP,True
+403,£40k - £50k,40000.0,40000.0,GBP,True
+404,£35k.00 - £40k.00 pa,35000.0,35000.0,GBP,True
+405,"30-35K depending on experience. Plus bonus, car",35000.0,35000.0,,True
+406,"Up to £42,000 with competitive bonus - DOE",,,,False
+407,Competitive salary + bonus + benefits,,,,False
+408,Up to £45K & benefits (£65K OTE/Package),45000.0,45000.0,GBP,True
+409,"€26,000 - €35,000",26000.0,35000.0,EUR,True
+410,£38k - £45k pa + Company Package,38000.0,38000.0,GBP,True
+411,£45k - £55k pa,45000.0,45000.0,GBP,True
+412,£25-£33k DOE plus 10k 1st year -19k OTE after,33000.0,33000.0,GBP,True
+413,£28k - £32k pa + + Car/ Allowance + Bonus + Benefi,28000.0,28000.0,GBP,True
+414,"£40,000 - £50,000 + 40k OTE",40000.0,50000.0,GBP,True
+415,Up to £55K & benefits (£70K OTE/Package),55000.0,55000.0,GBP,True
+416,Up to £28k.00 pa + £1600 OTE uncapped,1600.0,1600.0,GBP,True
+417,Up to 50 p hour,,,,False
+418,£Highly Competitive Financial Package,,,,False
+419,£35-£45k plus bonus av 25k plus bens plus car,45000.0,45000.0,GBP,True
+420,£35-£40k plus bonus av 15k plus bens plus car,40000.0,40000.0,GBP,True
+421,"£40,000 + £40k bonus",40000.0,40000.0,GBP,True
+422,£38k - £45k pa,38000.0,38000.0,GBP,True
+423,"£40k per year + + £20,000",20000.0,20000.0,GBP,True
+424,"£38,000 + benefits",38000.0,38000.0,GBP,True
+425,"£45,000 + £40,000 bonus plus benefits",40000.0,45000.0,GBP,True
+426,Negotiable + £50k bonus,,,,False
+427,"£28,000",28000.0,28000.0,GBP,True
+428,£40k - £42k pa + Company Package,40000.0,40000.0,GBP,True
+429,"£35,000 - £40,000",35000.0,40000.0,GBP,True
+430,Up to £30k pa + Company Package,30000.0,30000.0,GBP,True
+431,"Up to £58,000",58000.0,58000.0,GBP,True
+432,Basic to ~£55k + package + car + bonus,55000.0,55000.0,GBP,True
+433,€45k-€70k + car + expenses,45000.0,45000.0,EUR,True
+434,"£25-32,000 + benefits",32000.0,32000.0,GBP,True
+435,Krona- attractive package.,,,,False
+436,£30K-£50k,30000.0,30000.0,GBP,True
+437,£competitive,,,,False
+438,Up to £39k pa + great bonus and the usual benefits,39000.0,39000.0,GBP,True
+439,£75k - £76k pa + Car allowance + bonus,75000.0,75000.0,GBP,True
+440,£38-£44k + £18-£20k bonus + car,44000.0,44000.0,GBP,True
+441,"Up to £45,000",45000.0,45000.0,GBP,True
+442,"£26,000 - £31,000",26000.0,31000.0,GBP,True
+443,£19k to £22k (DOE) + up to 30% quarterly bonus + b,19000.0,19000.0,GBP,True
+444,£22k - £25k,22000.0,22000.0,GBP,True
+445,"£20-25,000",25000.0,25000.0,GBP,True
+446,£75-£85K,85000.0,85000.0,GBP,True
+447,"£45-50,000",50000.0,50000.0,GBP,True
+448,Atrractive Salary & Bonus,,,,False
+449,£22000 to £28000,22000.0,28000.0,GBP,True
+450,32k - 40k pa + Prime + Voiture de fonction,32000.0,32000.0,,True
+451,£25000 to £30000,25000.0,30000.0,GBP,True
+452,"bonus, car allowance",,,,False
+453,Up to £25k DOE,25000.0,25000.0,GBP,True
+454,Fantastic bonus structure & Car,,,,False
+455,"£22,000 - £25,000",22000.0,25000.0,GBP,True
+456,"Circa £40k DoE + Benefits, Bonus & Company Car",40000.0,40000.0,GBP,True
+457,"up to £50,000",50000.0,50000.0,GBP,True
+458,£35k - £45k DOE,35000.0,35000.0,GBP,True
+459,40000-45000 Per Annum 60-,40000.0,45000.0,,True
+460,£35k - £50k pa + DOE,35000.0,35000.0,GBP,True
+461,£25000 to £35000,25000.0,35000.0,GBP,True
+462,"£35-40,000 + car, bonus, benefits",40000.0,40000.0,GBP,True
+463,£150 - £250 p/day,150.0,250.0,GBP,True
+464,£27k - £31k pa,27000.0,27000.0,GBP,True
+465,£32k - £40k pa,32000.0,32000.0,GBP,True
+466,65k - 80k pa + Additional Benefits,65000.0,65000.0,,True
+467,£40k - £80k pa,40000.0,40000.0,GBP,True
+468,£30k.00 - £35k.00 pa + + Car/ Allowance + Bonus +,30000.0,30000.0,GBP,True
+469,£25K - £27K,25000.0,25000.0,GBP,True
+470,Up to £35k pa + (15-20K bonus circa.),35000.0,35000.0,GBP,True
+471,"£30k - £45k pa + Car, Bonus, pension and other Ben",30000.0,30000.0,GBP,True
+472,£35k - £50k pa + Company Package,35000.0,35000.0,GBP,True
+473,£30k - £50k pa + plus pension,30000.0,30000.0,GBP,True
+474,£35k - £55k.,35000.0,35000.0,GBP,True
+475,"to c£50,000 + £12k bonus",50000.0,50000.0,GBP,True
+476,Competitive Salary & Package,,,,False
+477,£65k - £75k pa + Benefits + Salary dependent upon,65000.0,65000.0,GBP,True
+478,£60k - £70k pa + plus benefits,60000.0,60000.0,GBP,True
+479,up to £36K + Bonus + Car,36000.0,36000.0,GBP,True
+480,"Salary up to £32,000 DOE + car + 15% bonus",32000.0,32000.0,GBP,True
+481,Up to €85K & benefits (€110K OTE/Package),110.0,110.0,EUR,True
+482,£45k - £55k,45000.0,45000.0,GBP,True
+483,£25k to £35k (DOE) + up to 30% quarterly bonus,25000.0,25000.0,GBP,True
+484,£30k - £35k pa + Company Package,30000.0,30000.0,GBP,True
+485,£30k - 40k per year + Pen,30000.0,30000.0,GBP,True
+486,basic to ~£48k + package,48000.0,48000.0,GBP,True
+487,30000-40000 Per Annum £25,30000.0,40000.0,GBP,True
+488,£35k + £25k Bonus.,35000.0,35000.0,GBP,True
+489,up to £37K pro rata+ car allowance,37000.0,37000.0,GBP,True
+490,85k - 10k0 pa + depending on expience,85000.0,85000.0,,True
+491,"£32,500",32500.0,32500.0,GBP,True
+492,Competitive per hour,,,,False
+493,£40k - 45k per year + Pen,40000.0,40000.0,GBP,True
+494,£28000 - £32000,28000.0,32000.0,GBP,True
+495,£45k - 55k per year,45000.0,45000.0,GBP,True
+496,£,,,GBP,False
+497,£75k - £85k pa + Benefits,75000.0,75000.0,GBP,True
+498,3k - 3500 pm,3500.0,3500.0,,True
+499,£20k - £30k pa + benefits package,20000.0,20000.0,GBP,True
+500,Up to £39k dependent on experience,39000.0,39000.0,GBP,True
+501,£60000 to £70000,60000.0,70000.0,GBP,True
+502,"£45k - £55k pa + Bonus, Pension, Package",45000.0,45000.0,GBP,True
+503,£30000 to £40000,30000.0,40000.0,GBP,True
+504,£300 to £339,300.0,339.0,GBP,True
+505,Excellent package and benefits offered,,,,False
+506,£55000 to £70000,55000.0,70000.0,GBP,True
+507,60k - 80k pa + standard Belgian Benefits,60000.0,60000.0,,True
+508,£35000 to £40000,35000.0,40000.0,GBP,True
+509,£40k - £65k+,40000.0,40000.0,GBP,True
+510,£30k - £35k pa,30000.0,30000.0,GBP,True
+511,£35k - £45k pa + + benefits package,35000.0,35000.0,GBP,True
+512,Up to £60 p hour,,,GBP,False
+513,£30k - £45k pa,30000.0,30000.0,GBP,True
+514,£40.00 - £45.00 p hour,,,GBP,False
+515,£35 - £40 pa,,,GBP,False
+516,38k - 45k pa,38000.0,38000.0,,True
+517,£75000 to £100000,75000.0,100000.0,GBP,True
+518,25k - 30k pa + avantages,25000.0,25000.0,,True
+519,£30-35k + Great Benefits,35000.0,35000.0,GBP,True
+520,Benefits,,,,False
+521,Up to 25 p hour,,,,False
+522,£80000 to £90000,80000.0,90000.0,GBP,True
+523,£33k - £40k pa,33000.0,33000.0,GBP,True
+524,£40k - £45k pa,40000.0,40000.0,GBP,True
+525,£45k - £55k pa +,45000.0,45000.0,GBP,True
+526,Up to £30k dependent on experience,30000.0,30000.0,GBP,True
+527,£32k - £45k pa + DOE,32000.0,32000.0,GBP,True
+528,£65k - £70k pa + Full relocation package,65000.0,65000.0,GBP,True
+529,£25K-£40K,25000.0,25000.0,GBP,True
+530,75 - 80 p hour,,,,False
+531,£40k-£50k,40000.0,40000.0,GBP,True
+532,£70 - £80 p hour,,,GBP,False
+533,Up to 54k pa + will be negotiated,54000.0,54000.0,,True
+534,£40k.00 - £50k.00 pa,40000.0,40000.0,GBP,True
+535,£25 - £30 p hour,,,GBP,False
+536,Up to £20.80 per hour,,,GBP,False
+537,£24-26k + Benefits,26000.0,26000.0,GBP,True
+538,£30000 to £35000,30000.0,35000.0,GBP,True
+539,£40 - £50 p hour,,,GBP,False
+540,£50000 to £60000,50000.0,60000.0,GBP,True
+541,£Negotiable,,,,False
+542,Up to £0.00 pa,,,GBP,False
+543,£28000 to £32000,28000.0,32000.0,GBP,True
+544,"Up to £47,000",47000.0,47000.0,GBP,True
+545,"£30k.00 - £35k.00 pa + pension, childcare vouchers",30000.0,30000.0,GBP,True
+546,£100K - £150K plus package,100.0,150.0,GBP,True
+547,£0,,,GBP,False
+548,£20k - £25k pa,20000.0,20000.0,GBP,True
+549,£37000 to £42000,37000.0,42000.0,GBP,True
+550,"Ranging from £50,000 to 100,000**",50000.0,100000.0,GBP,True
+551,"£36-42,000",42000.0,42000.0,GBP,True
+552,£26K - £31K,26000.0,26000.0,GBP,True
+553,£25000 to £34000,25000.0,34000.0,GBP,True
+554,£30k - £40k pa,30000.0,30000.0,GBP,True
+555,Up to 50k pa + Prime + Voiture de fonction + Ordi,50000.0,50000.0,,True
+556,£35-45K,45000.0,45000.0,GBP,True
+557,£40k - £65k pa + NEG DOE,40000.0,40000.0,GBP,True
+558,DOE plus bens,,,,False
+559,£55 - £60 p hour,,,GBP,False
+560,Swiss Franc100 - Swiss Franc120 p hour,100.0,120.0,,True
+561,£25k.00 - £30k.00 pa,25000.0,25000.0,GBP,True
+562,£65-£80k basic + bonus + Car allowance,80000.0,80000.0,GBP,True
+563,"€45,000 - €80,000",45000.0,80000.0,EUR,True
+564,"Salary: £55,000 - £65,000 Per annum",55000.0,65000.0,GBP,True
+565,6k - 7k pm,,,,False
+566,£30000 to £38000,30000.0,38000.0,GBP,True
+567,£32k.00 - £34k.00 pa,32000.0,32000.0,GBP,True
+568,£35-40K,40000.0,40000.0,GBP,True
+569,"£65,000.00 - £75,000.00",65000.0,75000.0,GBP,True
+570,35k - 60k pa,35000.0,35000.0,,True
+571,"Up to £30,000",30000.0,30000.0,GBP,True
+572,Pension,,,,False
+573,£50000 to £55000,50000.0,55000.0,GBP,True
+574,£33000 to £38000,33000.0,38000.0,GBP,True
+575,£27000 to £33000,27000.0,33000.0,GBP,True
+576,£55000 to £60000,55000.0,60000.0,GBP,True
+577,£35k - £42k pa,35000.0,35000.0,GBP,True
+578,£35k - £45k + Bonus,35000.0,35000.0,GBP,True
+579,£80k + Great Benefits,80000.0,80000.0,GBP,True
+580,6k - 8k pm,,,,False
+581,28 - 45 - EUR / PerHour,,,EUR,False
+582,£70k-£80k,70000.0,70000.0,GBP,True
+583,TBC,,,,False
+584,Excellent Rates,,,,False
+585,£55k - £65k,55000.0,55000.0,GBP,True
+586,"£35k - £60k pa + medical, pension, yearly bonus",35000.0,35000.0,GBP,True
+587,"12,000 - 14,000 plz pm",12000.0,14000.0,,True
+588,£30k to £31.5k (DOE) + up to 30% quarterly bonus +,30000.0,30000.0,GBP,True
+589,50k - 60k pa + 15% Bonus + Benefits + Full relocat,50000.0,50000.0,,True
+590,Up to £170 per day Ltd,170.0,170.0,GBP,True
+591,£Negotiable DOE,,,,False
+592,£60k-£70k,60000.0,60000.0,GBP,True
+593,Up to £60k pa,60000.0,60000.0,GBP,True
+594,"£55,000 - £65,000",55000.0,65000.0,GBP,True
+595,"€45,000 - €55,000",45000.0,55000.0,EUR,True
+596,€30k-€45k,30000.0,30000.0,EUR,True
+597,45000 to 50000,45000.0,50000.0,,True
+598,on application,,,,False
+599,Up to £30K & benefits (£36K OTE/Package),30000.0,30000.0,GBP,True
+600,Up to 50k pa,50000.0,50000.0,,True
+601,£45k-£55k,45000.0,45000.0,GBP,True
+602,Up to £30k pa + + Bonus + Benefits,30000.0,30000.0,GBP,True
+603,Competitive Rates,,,,False
+604,£competitive + + 10k bonus + car allowance + more!,,,,False
+605,£70-80k basic salary+ car + bonus,80000.0,80000.0,GBP,True
+606,£35k - £40k pa + Company Package,35000.0,35000.0,GBP,True
+607,"up to £70,000",70000.0,70000.0,GBP,True
+608,£38-£42k + £18-£20k bonus + car,42000.0,42000.0,GBP,True
+609,"£30-36,000 + bonus, car, benefits",36000.0,36000.0,GBP,True
+610,£35k - £45k pa + Company Package,35000.0,35000.0,GBP,True
+611,£32k - £50k,32000.0,32000.0,GBP,True
+612,£45k-£65k,45000.0,45000.0,GBP,True
+613,£20-24k + Uncapped Bonus + Company Car + Benefits,24000.0,24000.0,GBP,True
+614,€100k OTE + car + expenses,100.0,100.0,EUR,True
+615,£30-40K,40000.0,40000.0,GBP,True
+616,Basic + Bonus + BMW company car,,,,False
+617,£40k (neg) + bonus,40000.0,40000.0,GBP,True
+618,£40k - £55k pa + Benefits (Salary dependent upon e,40000.0,40000.0,GBP,True
+619,28K - 33K,28000.0,28000.0,,True
+620,"£34,000 - £39,000",34000.0,39000.0,GBP,True
+621,£65000 to £75000,65000.0,75000.0,GBP,True
+622,"£28,000 - £35,000",28000.0,35000.0,GBP,True
+623,"£50-60,000",60000.0,60000.0,GBP,True
+624,£40- £45k + £20-£25k bonus,45000.0,45000.0,GBP,True
+625,£37k - £45k pa,37000.0,37000.0,GBP,True
+626,"£31,500 - £40,500 + Car Allowance + Commission",31500.0,40500.0,GBP,True
+627,"up to £55,000 (DOE + company benefits)",55000.0,55000.0,GBP,True
+628,£27k - £35k pa,27000.0,27000.0,GBP,True
+629,"£40k-£55k with car, benefits etc.",40000.0,40000.0,GBP,True
+630,"c. £28,000",28000.0,28000.0,GBP,True
+631,£60k - £70k pa + 30% Bonus and additional Benefits,60000.0,60000.0,GBP,True
+632,"Up to £60,000",60000.0,60000.0,GBP,True
+633,"Up to £28k pa + £5,k Bonus, Car",28000.0,28000.0,GBP,True
+634,Highly Competative,,,,False
+635,£26k - £38k pa,26000.0,26000.0,GBP,True
+636,£55000 to £65000,55000.0,65000.0,GBP,True
+637,"£35,000 - £43,000 basic depending on experience",35000.0,43000.0,GBP,True
+638,"Up to £25k pa + £10,k Bonus, Car",25000.0,25000.0,GBP,True
+639,"£40,0000 - £60,000",60000.0,400000.0,GBP,True
+640,"£60,000 basic plus bonus +car",60000.0,60000.0,GBP,True
+641,£45 to £60,,,GBP,False
+642,Up to €66.50 per hour,,,EUR,False
+643,"Salary: €200,000 - €250,000 Per annum + Benefits",200000.0,250000.0,EUR,True
+644,£35k.00 - £45k.00 pa,35000.0,35000.0,GBP,True
+645,£50k-£70k plus package,50000.0,50000.0,GBP,True
+646,£45k - £55k pa + Bonus and excellent benefits,45000.0,45000.0,GBP,True
+647,£110000 to £140000,110000.0,140000.0,GBP,True
+648,"£40k - £60k, £400 - £500 per day",400.0,500.0,GBP,True
+649,£70k-£85k,70000.0,70000.0,GBP,True
+650,Daily / hourly rate,,,,False
+651,"40,000 - 45,000 Euros + Benefits",40000.0,45000.0,EUR,True
+652,£35000 to £48000,35000.0,48000.0,GBP,True
+653,£on Application,,,,False
+654,£30k.00 - £35k.00 pa,30000.0,30000.0,GBP,True
+655,£45000 to £55000,45000.0,55000.0,GBP,True
+656,"£40,000 - £60,000 (Depending on experience)",40000.0,60000.0,GBP,True
+657,32k.00 - 37k pa,32000.0,32000.0,,True
+658,"£40,000 - £60,000",40000.0,60000.0,GBP,True
+659,"£65,000 - £75,000",65000.0,75000.0,GBP,True
+660,£65k - £70k pa,65000.0,65000.0,GBP,True
+661,£35000 to £45000,35000.0,45000.0,GBP,True
+662,£20 to £25,,,GBP,False
+663,£60k-£80k + benefits,60000.0,60000.0,GBP,True
+664,£45-55k,55000.0,55000.0,GBP,True
+665,£27000 to £35000,27000.0,35000.0,GBP,True
+666,40k - 75k pa,40000.0,40000.0,,True
+667,Negotiable based on experience,,,,False
+668,£Competitive salary + benefits,,,,False
+669,£35k - 40k per year,35000.0,35000.0,GBP,True
+670,Up to £30k pa,30000.0,30000.0,GBP,True
