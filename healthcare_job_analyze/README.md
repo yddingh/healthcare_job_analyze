@@ -7,7 +7,7 @@ This project uses a real-world job postings dataset from the eMedCareers job por
 
 ## About the Dataset
 
-The dataset was obtained from Kaggle: "30000 Latest Healthcare Jobs (eMedCareers Europe)"
+The dataset was obtained from Kaggle: "30000+ healthcare jobs from eMedCareers (Europe)"
 
 Dataset source: https://www.kaggle.com/datasets/jobspikr/30000-latest-healthcare-jobs-emedcareers-europe
 
@@ -51,13 +51,13 @@ healthcare_job_analyze\healthcare_job_dbt\script\csv_to_sqlite.py
 To simulate a standard data engineering workflow, the cleaned dataset was loaded into a dbt project and modeled into:
 
     Fact Table
-    ├- fact_jobs
+    ├── fact_jobs
     │
     Dimension Tables
-    ├- dim_company
-    ├- dim_category
-    ├- dim_job_type
-    └- dim_salary
+    ├── dim_company
+    ├── dim_category
+    ├── dim_job_type
+    └── dim_salary
 
 
 This follows typical star schema principles, making the data easier to analyze and scale.
@@ -69,7 +69,7 @@ Model files location:
 
 Finally, I designed several BI dashboards usaing Tableau to visualize insights.
 
-
+##
 
 These dashboards summarize the dataset effectively and demonstrate an end-to-end workflow from raw data → cleaned data → modeled data → insights.
 
