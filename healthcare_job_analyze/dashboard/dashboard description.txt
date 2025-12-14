@@ -1,0 +1,60 @@
+
+Dashboard 1：Job Market Overview（求职市场全貌）
+
+图表建议：
+
+1. 招聘趋势折线图（按月份）
+
+X：Post_date
+Y：职位数量
+显示 "招聘市场是否有淡旺季"
+
+2. 公司招聘数量排名 Top 10
+
+Bar chart
+Y：Company Name
+X：Job Count
+可以快速展示招聘大户
+
+3. 职位类型分布 Pie / Bar Chart
+
+维度：job_title
+指标：count/jobs
+展示什么岗位最常见
+
+4. 平均薪资箱线图（Salary）
+
+维度：job_title
+指标：salary
+查看哪个职位薪资高，数据是否离散
+
+
+
+Dashboard 2：Location Dashboard（地域分析）
+
+图表建议：
+
+1. 地图（Map）：职位地理分布
+
+使用 location 字段（最好拆成 country, state, city）
+
+彩色或气泡大小代表 job_count
+
+2. 不同城市的平均薪资 Bar Chart
+
+可以在地图上点击过滤
+
+
+
+Dashboard 3：Company Detail Viewer（公司信息查看器）
+
+让用户选择公司，然后 dashboard 更新：
+
+公司招聘数量
+
+该公司招聘的职位类型
+
+该公司薪资分布
+
+最近招聘趋势
+
